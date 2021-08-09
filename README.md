@@ -15,3 +15,13 @@ and country.
 Please see image below:
 
 ![Image](images/UFO.png)
+
+In order to use the new webpage, first we must filter the data. The website will iniitially have every UFO sighting listed. As can be 
+seen from the screenshot, adding in a date and state has filtered the list down to just one sighting. This will be fantastic in helping
+Dana to organize her information.
+
+## Summary
+
+The major drawback from this design is the inability to select a range of dates. I recommend adjusting the code to enable the input of a specific 
+range of dates. Another drawback from the design is the display of the website relative to the medium in which it is being viewed. The entire page 
+can't be magnified if using a mobile device. As many people only use their mobile device rather than a computer, this would be a welcome change.
